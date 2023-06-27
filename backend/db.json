@@ -1,0 +1,47 @@
+{
+    "users": [
+      {
+        "name": "Cida",
+        "email": "cici123@gmail.com",
+        "age": "36",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "name": "Maria Joana D",
+        "email": "jojo123@gmail.com",
+        "age": 22
+      },
+      {
+        "id": 3,
+        "name": "Berta C",
+        "email": "beberta123@gmail.com",
+        "age": 19
+      },
+      {
+        "id": 4,
+        "name": "Michelli B ",
+        "email": "mi123@gmail.com",
+        "age": "25"
+      },
+      {
+        "id": 5,
+        "name": "Ester ",
+        "email": "teia123@gmail.com",
+        "age": "35"
+      },
+      {
+        "id": 6,
+        "name": "Jana D",
+        "email": "jana123@gmail.com",
+        "age": "36"
+      }
+    ],
+    "login": [
+      {
+        "email": "luna123@gmail.com",
+        "password": "0123",
+        "id": 1
+      }
+    ]
+  }
